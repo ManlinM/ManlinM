@@ -40,7 +40,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-w
 <details open> 
   <summary><h2>📘 My School Projects</h2></summary>
 
-  <a href="https://github.com/ManlinM/schoolwebproject.github.io"><img width="278" src="https://manlin-m-github-readme-stats-vercel-app/api/pin?username=manlinm&repo=schoolwebproject.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="schoolwebproject"></a>
+  <a href="https://github.com/ManlinM/schoolwebproject.github.io"><img width="278" src="https://github-readme-stats-vercel-app/api/pin?username=manlinm&repo=schoolwebproject.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="schoolwebproject"></a>
  
   </p>
 

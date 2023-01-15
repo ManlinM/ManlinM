@@ -1,4 +1,7 @@
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="C:\Users\Maril\Documents\GitHub\ManlinMao.png" alt="Manlin Mao" /></a>
+</p>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Manlin%20Mao&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />

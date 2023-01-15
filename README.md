@@ -1,10 +1,12 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Manlin%20Mao&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=👩🏻‍💻Manlin%20Mao&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
+      <img src="https://readme-typing-svg.demolab.com/?lines=St.%20Lawrence%20College%20Computer%20Programming%20student&center=true&width=800&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
 </p>
 
-I'm a second-year Computer Programming student at St. Lawrence College.
+---
+
 I have particularly enjoyed my experience with coding. 
 I have built several coding projects from planning and designing to solving some real-life problems at school, and I have worked with other students to simulate the software development life cycle by designing, developing, and debugging applications.
 Most coding projects present in my GitHub are from school, and others are projects I worked on in my spare time.

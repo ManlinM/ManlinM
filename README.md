@@ -37,4 +37,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
                    
+<details open> 
+  <summary><h2>📘 My School Projects</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/ManlinM/webshop.github.io"><img width="278" src="https://manlinm-github-readme-stats.vercel.app/api/pin/?username=ManlinM&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   
+  </p>
+
+</details>
                                                           

@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm a second-year Computer Programming student at St. Lawrence College.
 I have particularly enjoyed my experience with coding. 
-I have built several coding projects from planning and designing to solving some real-life problems at school, and have learned the foundation in HTML, CSS, C++, C#, and MySQL.I have with other students to simulate the software development life cycle by designing, developing, and debugging applications.
+I have built several coding projects from planning and designing to solving some real-life problems at school, and I have worked with other students to simulate the software development life cycle by designing, developing, and debugging applications.
 Most coding projects present in my GitHub are from school, and others are projects I worked on in my spare time.
 ---
+### 🧰 Languages and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />

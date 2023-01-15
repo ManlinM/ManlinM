@@ -20,4 +20,4 @@ I have built several coding projects from planning and designing to solving some
 Most coding projects present in my GitHub are from school, and others are projects I worked on in my spare time.
 ---
 ### 🧰 Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />

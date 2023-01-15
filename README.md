@@ -40,8 +40,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-w
 <details open> 
   <summary><h2>📘 My School Projects</h2></summary>
 
-  <p align="left">
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manlinm)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/ManlinM/schoolwebproject.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ManlinM1&repo=schoolwebproject.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="schoolwebproject"></a>
  
   </p>
 

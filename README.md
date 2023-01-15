@@ -21,3 +21,7 @@ Most coding projects present in my GitHub are from school, and others are projec
 ---
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+                   

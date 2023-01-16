@@ -16,6 +16,7 @@ Most coding projects present in my GitHub are from school, and others are projec
 
 <details open> 
   <summary align="left"><h2> 🧰 Languages and ToolS</h2></summary>
+
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
@@ -32,6 +33,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+    
 </details>
 
 
@@ -44,7 +46,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-w
   <a href="https://github.com/ManlinM/schoolwebproject.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=schoolwebproject.github.io&&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="schoolwebproject"></a>
    
 <a href="https://github.com/ManlinM/CS_wheel_of_fortune"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=CS_wheel_of_fortune&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CS_wheel_of_fortune"></a>
-     
+        
+
    
   </p>
 </details>

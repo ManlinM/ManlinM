@@ -57,7 +57,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-w
 <details open> 
   <summary><h2>👓 Other Projects</h2></summary>
  <p align="left">
-   
+    <a href="https://github.com/ManlinM/html_form_practice"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=html_form_practice&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="html_form_practice"></a>
+      <a href="https://github.com/ManlinM/css_price_panel_practice"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=css_price_panel_practice&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="css_price_panel_practice"></a>
   </p>
 </details>
 

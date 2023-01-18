@@ -7,9 +7,7 @@
 
 ---
 
-I have particularly enjoyed my experience with coding. 
-I have built several coding projects from planning and designing to solving some real-life problems at school, and I have worked with other students to simulate the software development life cycle by designing, developing, and debugging applications.
-Most coding projects present in my GitHub are from school, and others are projects I worked on in my spare time.
+I have particularly enjoyed my experience with coding. I have built several coding projects, from planning and designing to solving some real-life problems at school. I have worked with other students to simulate the software development life cycle by designing, developing, and debugging applications. Most coding projects in my GitHub are from school, and others are projects I worked on in my spare time.
 
 ---
 

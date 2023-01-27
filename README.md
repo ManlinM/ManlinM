@@ -47,6 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-w
     <a href="https://github.com/ManlinM/school_javascript_project"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=school_javascript_project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="school_javascript_project"></a> 
     <a href="https://github.com/ManlinM/school_cpp_linkedlist_assignment"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=school_cpp_linkedlist_assignment&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="school_cpp_linkedlist_assignment"></a>
     <a href="https://github.com/ManlinM/one_to_one_DB_design"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=one_to_one_DB_design&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="one_to_one_DB_design"></a>
+         <a href="https://github.com/ManlinM/schoo_php_group_capstone"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=schoo_php_group_capstone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="schoo_php_group_capstone"></a>
   </p>
 </details>
 

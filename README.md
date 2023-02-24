@@ -41,13 +41,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-w
 <details open> 
   <summary><h2>📘 My School Projects</h2></summary>
  <p align="left">
-    <a href="https://github.com/ManlinM/schoolwebproject.github.io"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=schoolwebproject.github.io&&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="schoolwebproject"></a>
-    <a href="https://github.com/ManlinM/CS_wheel_of_fortune"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=CS_wheel_of_fortune&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CS_wheel_of_fortune"></a>
-    <a href="https://github.com/ManlinM/school_php_project"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=school_php_project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="school_php_project"></a> 
-    <a href="https://github.com/ManlinM/school_javascript_project"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=school_javascript_project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="school_javascript_project"></a> 
-    <a href="https://github.com/ManlinM/school_cpp_linkedlist_assignment"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=school_cpp_linkedlist_assignment&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="school_cpp_linkedlist_assignment"></a>
-    <a href="https://github.com/ManlinM/one_to_one_DB_design"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=one_to_one_DB_design&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="one_to_one_DB_design"></a>
-         <a href="https://github.com/ManlinM/schoo_php_group_capstone"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=schoo_php_group_capstone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="schoo_php_group_capstone"></a>
+    <a href="https://github.com/ManlinM/schoolwebproject.github.io"><img width="278" src="https://manlin-m-github-readme-stats-r0ji84sqp-manlinm.vercel.app/api/pin/?username=manlinm&repo=schoolwebproject.github.io&&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="schoolwebproject"></a>
+    <a href="https://github.com/ManlinM/CS_wheel_of_fortune"><img width="278" src="https://manlin-m-github-readme-stats-r0ji84sqp-manlinm.vercel.app/api/pin/?username=manlinm&repo=CS_wheel_of_fortune&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CS_wheel_of_fortune"></a>
+    <a href="https://github.com/ManlinM/school_php_project"><img width="278" src="https://manlin-m-github-readme-stats-r0ji84sqp-manlinm.vercel.app/api/pin/?username=manlinm&repo=school_php_project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="school_php_project"></a> 
+    <a href="https://github.com/ManlinM/school_javascript_project"><img width="278" src="https://manlin-m-github-readme-stats-r0ji84sqp-manlinm.vercel.app/api/pin/?username=manlinm&repo=school_javascript_project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="school_javascript_project"></a> 
+    <a href="https://github.com/ManlinM/school_cpp_linkedlist_assignment"><img width="278" src="https://manlin-m-github-readme-stats-r0ji84sqp-manlinm.vercel.app/api/pin/?username=manlinm&repo=school_cpp_linkedlist_assignment&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="school_cpp_linkedlist_assignment"></a>
+    <a href="https://github.com/ManlinM/one_to_one_DB_design"><img width="278" src="https://manlin-m-github-readme-stats-r0ji84sqp-manlinm.vercel.app/api/pin/?username=manlinm&repo=one_to_one_DB_design&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="one_to_one_DB_design"></a>
+         <a href="https://github.com/ManlinM/schoo_php_group_capstone"><img width="278" src="https://manlin-m-github-readme-stats-r0ji84sqp-manlinm.vercel.app/api/pin/?username=manlinm&repo=schoo_php_group_capstone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="schoo_php_group_capstone"></a>
   </p>
 </details>
 
@@ -58,10 +58,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-w
 <details open> 
   <summary><h2>👓 Other Projects</h2></summary>
  <p align="left">
-    <a href="https://github.com/ManlinM/html_form_practice"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=html_form_practice&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="html_form_practice"></a>
-      <a href="https://github.com/ManlinM/css_price_panel_practice"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=css_price_panel_practice&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="css_price_panel_practice"></a>
-      <a href="https://github.com/ManlinM/js_pig_game"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=js_pig_game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="js_pig_game"></a>
-          <a href="https://github.com/ManlinM/web_porfolio"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=web_porfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="web_porfolio"></a>
+    <a href="https://github.com/ManlinM/html_form_practice"><img width="278" src="https://manlin-m-github-readme-stats-r0ji84sqp-manlinm.vercel.app/api/pin/?username=manlinm&repo=html_form_practice&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="html_form_practice"></a>
+      <a href="https://github.com/ManlinM/css_price_panel_practice"><img width="278" src="https://manlin-m-github-readme-stats-r0ji84sqp-manlinm.vercel.app/api/pin/?username=manlinm&repo=css_price_panel_practice&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="css_price_panel_practice"></a>
+      <a href="https://github.com/ManlinM/js_pig_game"><img width="278" src="https://manlin-m-github-readme-stats-r0ji84sqp-manlinm.vercel.app/api/pin/?username=manlinm&repo=js_pig_game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="js_pig_game"></a>
+          <a href="https://github.com/ManlinM/web_porfolio"><img width="278" src="https://manlin-m-github-readme-stats-r0ji84sqp-manlinm.vercel.app/api/pin/?username=manlinm&repo=web_porfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="web_porfolio"></a>
   </p>
 </details>
 
@@ -71,7 +71,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-w
 <details open> 
   <summary><h2>💦In Progress</h2></summary>
  <p align="left">
-    <a href="https://github.com/ManlinM/js_bankist_app_project"><img width="278" src="https://manlin-m-github-readme-stats.vercel.app/api/pin/?username=manlinm&repo=js_bankist_app_project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="js_bankist_app_project"></a>
+    <a href="https://github.com/ManlinM/js_bankist_app_project"><img width="278" src="https://manlin-m-github-readme-stats-r0ji84sqp-manlinm.vercel.app/api/pin/?username=manlinm&repo=js_bankist_app_project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="js_bankist_app_project"></a>
 </details>
 
 

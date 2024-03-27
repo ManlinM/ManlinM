@@ -71,7 +71,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-w
 <details open> 
   <summary><h2>💦In Progress</h2></summary>
  <p align="left">
-    <a href="https://github.com/ManlinM/js_bankist_app_project"><img width="278" src="https://manlin-m-github-readme-stats-r0ji84sqp-manlinm.vercel.app/api/pin/?username=manlinm&repo=js_bankist_app_project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="js_bankist_app_project"></a>
+    <a href="https://github.com/ManlinM/AngularPlantShop"><img width="278" src="https://manlin-m-github-readme-stats-r0ji84sqp-manlinm.vercel.app/api/pin/?username=manlinm&repo=AngularPlantShop&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AngularPlantShop"></a>
 </details>
 
 ---

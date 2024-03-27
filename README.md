@@ -66,7 +66,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-w
 </details>
 
 ---
-
+![Leetcode Stats](https://leetcode.com/ManlinM/)
 
 <details open> 
   <summary><h2>💦In Progress</h2></summary>
